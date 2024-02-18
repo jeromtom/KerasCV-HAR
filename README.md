@@ -19,7 +19,6 @@ EatNot detects if a person is eating through a live camera feed to show the live
 ## Libraries used
 Keras
 Dataset: [Human Action Recognition Dataset](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset/)
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+
+## How to configure/Run
+[Google Colab Notebook](https://colab.research.google.com/drive/1R_2wd37K65sVIamg7kJafRTanaI7yzHx?usp=sharing)
