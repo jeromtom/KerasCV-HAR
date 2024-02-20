@@ -26,7 +26,7 @@ Note: It is silghtly harder for to diffrentiate between laughing-clapping and fi
 ## Libraries used
 1. Keras
 2. [Human Action Recognition Dataset](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset/)
-3. [DroidCam]((https://www.dev47apps.com/)
+3. [DroidCam](https://www.dev47apps.com/)
 
 ## How to configure and run
 1. Make a copy of the [Google Colab Notebook](https://colab.research.google.com/drive/1R_2wd37K65sVIamg7kJafRTanaI7yzHx?usp=sharing) upload your Kaggle API.
